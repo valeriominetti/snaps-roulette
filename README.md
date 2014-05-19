@@ -17,6 +17,11 @@ work in progress of a web interface. at the moment just print out a table with f
 Install
 -------
 
+_requirements_
+* php5_curl
+* wget
+* php5_mcrypt
+
 Unzip archive in a published folder and add this command to crontab to have bot runned every 2 minutes:
 
  "*/2 * * * * /usr/bin/wget -q  http://localhost/roulette/index-cli.php"
