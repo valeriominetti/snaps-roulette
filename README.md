@@ -22,8 +22,10 @@ _requirements_
 * wget
 * php5_mcrypt
 
-Unzip archive in a published folder and add this command to crontab to have bot runned every 2 minutes:
-
+_ installation steps_
+* Unzip archive in a published folder
+* set appropriate username and password in index.cli.php
+* add this command to crontab to have bot runned every 2 minutes:
  "*/2 * * * * /usr/bin/wget -q  http://localhost/roulette/index-cli.php"
 
 Donation
