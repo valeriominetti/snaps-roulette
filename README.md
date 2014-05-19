@@ -25,3 +25,8 @@ _requirements_
 Unzip archive in a published folder and add this command to crontab to have bot runned every 2 minutes:
 
  "*/2 * * * * /usr/bin/wget -q  http://localhost/roulette/index-cli.php"
+
+Donation
+--------
+
+Feel free to drop some uBTC to this address ;)   1CgtHL3LpTBacZGnrsGjkdWoozk3cE4mhy
